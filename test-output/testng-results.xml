@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27267" started-at="2022-10-07T08:00:53Z" finished-at="2022-10-07T08:01:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27267" started-at="2022-10-07T08:00:53Z" finished-at="2022-10-07T08:01:20Z">
+      <class name="loginTest.AmazonTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:loginTest.AmazonTest@1d76aeea]" name="init" is-config="true" duration-ms="3440" started-at="2022-10-07T08:00:53Z" finished-at="2022-10-07T08:00:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="searchProduct()[pri:1, instance:loginTest.AmazonTest@1d76aeea]" name="searchProduct" duration-ms="7010" started-at="2022-10-07T08:00:56Z" finished-at="2022-10-07T08:01:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="selectproductfromlist()[pri:2, instance:loginTest.AmazonTest@1d76aeea]" name="selectproductfromlist" duration-ms="6324" started-at="2022-10-07T08:01:03Z" finished-at="2022-10-07T08:01:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectproductfromlist -->
+        <test-method status="PASS" signature="setitemtocart()[pri:3, instance:loginTest.AmazonTest@1d76aeea]" name="setitemtocart" duration-ms="103" started-at="2022-10-07T08:01:10Z" finished-at="2022-10-07T08:01:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setitemtocart -->
+        <test-method status="PASS" signature="verifyshoppingcarttime()[pri:4, instance:loginTest.AmazonTest@1d76aeea]" name="verifyshoppingcarttime" duration-ms="5851" started-at="2022-10-07T08:01:10Z" finished-at="2022-10-07T08:01:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyshoppingcarttime -->
+        <test-method status="PASS" signature="checkoutfunction()[pri:5, instance:loginTest.AmazonTest@1d76aeea]" name="checkoutfunction" duration-ms="1540" started-at="2022-10-07T08:01:16Z" finished-at="2022-10-07T08:01:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutfunction -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:loginTest.AmazonTest@1d76aeea]" name="teardown" is-config="true" duration-ms="2985" started-at="2022-10-07T08:01:17Z" finished-at="2022-10-07T08:01:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- loginTest.AmazonTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
